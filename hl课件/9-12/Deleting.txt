@@ -1,0 +1,4 @@
+https://qoj.ac/submission/13687
+n^3log n/w的代码 比n^3/w好写
+题解 https://codeforces.com/blog/entry/95017
+
